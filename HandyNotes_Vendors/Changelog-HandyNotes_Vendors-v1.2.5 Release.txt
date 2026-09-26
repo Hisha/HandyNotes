@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------
 r77 | zarevak | 2010-01-24 22:24:36 +0000 (Sun, 24 Jan 2010) | 2 lines
 Changed paths:
-   A /tags/v1.2.5 Release (from /trunk:76)
+   A /tags/v1.1.5 Release (from /trunk:76)
 
-Tagging as v1.2.5 Release
+Tagging as v1.1.5 Release
 - added frFR localization by akirra83. Thank you!
 ------------------------------------------------------------------------
 r76 | zarevak | 2010-01-24 22:24:00 +0000 (Sun, 24 Jan 2010) | 2 lines
